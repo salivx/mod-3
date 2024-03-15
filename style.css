@@ -1,0 +1,12 @@
+<style>
+  .tall-section {
+    background-color: #f7f7f7; /* example color */
+    height: 1000px; /* really tall section */
+  }
+  .navbar-toggler {
+    margin-bottom: 20px;
+  }
+  .dropdown-menu {
+    width: 100%; /* full width */
+  }
+</style>
